@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/tools">
+    <string name="app_name">Just Java</string>
+    <string name="add_chocolate">Dodać czekoladę?  <xliff:g id="hasChocolate" example="true">%b</xliff:g></string>
+    <string name="add_whipped_cream">Dodać bitą śmietanę? <xliff:g id="hasWhippedCream" example="true">%b</xliff:g></string>
+    <string name="chocolate">Czekolada</string>
+    <string name="name">Imię:  <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="name_hint">Imię</string>
+    <string name="order">Zamów</string>
+    <string name="quantity">Wartość</string>
+    <string name="quantity_price">Wartość:  <xliff:g id="quantity" example="10">%d</xliff:g></string>
+    <string name="thank_you">Dziękuję!</string>
+    <string name="toppings">Dodatek</string>
+    <string name="total_currency_mark">Zapłata: <xliff:g id="price" example="$100">%s</xliff:g></string>
+    <string name="whipped_cream">Bita śmietana</string>
+    <string name="failure">Błąd!</string>
+    <string name="success">Sukces!</string>
+    <string name="title_for_order">JustJava zamówienie dla <xliff:g id="name" example="Amy">%s</xliff:g></string>
+</resources>
